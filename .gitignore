@@ -1,4 +1,9 @@
 Antigravity/
+chrome-data/
+Kitware/
+MongoDB Compass/
+Postman/
+rssguard5/
 aspera/
 Code/
 CherryStudio/
@@ -22,3 +27,4 @@ systemd/
 .env.*
 .ssh/
 .gnupg/
+sqlitebrowser/
